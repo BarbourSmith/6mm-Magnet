@@ -2,6 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
-
- 3xCOG MSRP: $0.00
+|Encoder Magnet|1|$3.25|https://shop.maslowcnc.com/products/encoder-magnet-pack|
+|Total: |1|$3.25| |
